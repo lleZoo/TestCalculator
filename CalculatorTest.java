@@ -35,7 +35,7 @@ public class CalculatorTest {
                 System.out.println("1. Сложить");
                 System.out.println("2. Вычесть");
                 System.out.println("3. Умножить");
-                System.out.println("4. Розделить");
+                System.out.println("4. Разделить");
                 System.out.println("5. Взять остаток");
                 System.out.println("0 Выход");
                 System.out.print("Введите номер пункта: ");
